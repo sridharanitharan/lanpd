@@ -14,6 +14,10 @@ By implementing this detector, you've built a valuable tool for network security
 
 ## how to run the program
 
+#### install linssl 
+```http
+  sudo apt install libssl-dev
+```
 #### install libpcap library
 
 ```http
