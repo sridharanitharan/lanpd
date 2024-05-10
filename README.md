@@ -14,7 +14,7 @@ By implementing this detector, you've built a valuable tool for network security
 
 ## how to run the program
 
-#### install linssl 
+#### install libssl 
 ```http
   sudo apt install libssl-dev
 ```
